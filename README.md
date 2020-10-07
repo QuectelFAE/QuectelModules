@@ -30,8 +30,6 @@ Quectel Wireless Solutions is the leading global supplier of cellular and GNSS m
 
 ![Quectel_modules_stuff.png](https://i.loli.net/2020/09/29/bk4wJGADRZiYxst.png)
 
-
-
 ----------
 Links:
 

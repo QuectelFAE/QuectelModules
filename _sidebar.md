@@ -34,12 +34,9 @@
   - [OpenWrt添加patch](applications/03.2_openwrt_add_patch)
   - [OpenWrt添加patch](applications/03.2_openwrt_add_patch)
 
-
 - FAQs
 
   - [FAQ](/FAQs/FAQ)
 
-
-<!-- - [杠精高潮区](MrRight.md) -->
 
 - [关于&致谢](inits/about.md)
