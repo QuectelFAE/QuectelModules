@@ -11,7 +11,7 @@
 
 - 娱乐
 
-  - [USB协议和网络基础](/USB&NetWork/USB&NetWork)
+  - [USB协议和网络基础](/USB_NetWork/USB_NetWork)
 
 - USB串口
 
