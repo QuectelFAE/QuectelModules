@@ -33,12 +33,13 @@
   - [基于NAT的软路由](applications/04_基于NAT的软路由)
   - [利用udev](applications/05.udev)
   - [MAC地址问题](applications/06.qmi网卡的mac地址)
-  - [设备被占用](applications/07.open_dev_failed)
+  - []()
   - [readytoadd](applications/readytoadd)
 
 - FAQs
 
-  - [FAQ](/FAQs/FAQ)
+  - [common issues](/FAQs/FAQ)
+  - [Open_Dev_Failed](FAQs/open_dev_failed)
 
 
 - [关于&致谢](inits/about.md)
