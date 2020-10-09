@@ -32,6 +32,8 @@
   - [OpenWrt添加patch](applications/03.2_openwrt_add_patch)
   - [基于NAT的软路由](applications/04_基于NAT的软路由)
   - [利用udev](applications/05.udev)
+  - [MAC地址问题](applications/06.qmi网卡的mac地址)
+  
   - [readytoadd](applications/readytoadd)
 
 - FAQs
