@@ -38,8 +38,10 @@
 
 - FAQs
 
-  - [common issues](/FAQs/FAQ)
-  - [Open_Dev_Failed](FAQs/open_dev_failed)
+  - [common issues](/FAQs/01.FAQ)
+  - [Open_Dev_Failed](FAQs/02.open_dev_failed)
+  - [quectel-CM](FAQs/03.quectel-CM)
+  
 
-
-- [关于&致谢](inits/about.md)
+- Abouts
+	- [关于&致谢](inits/about.md)
