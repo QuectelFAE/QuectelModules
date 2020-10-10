@@ -8,7 +8,7 @@
 - 进阶基础
 
   - [硬件基础](/Base/HardWare)
-  - [AT指令]](/Base/AT)
+  - [AT指令](/Base/AT)
   - [USB协议和网络基础](/Base/USB_NetWork)
 
 - USB串口
