@@ -44,7 +44,8 @@
   - [common issues](/FAQs/01.FAQ)
   - [Open_Dev_Failed](FAQs/02.open_dev_failed)
   - [quectel-CM](FAQs/03.quectel-CM)
-  
+  - [driver_not_match](FAQs/04.driver_not_match)
+
 
 - Abouts
 	- [关于&致谢](inits/about.md)
