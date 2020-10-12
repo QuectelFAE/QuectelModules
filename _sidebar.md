@@ -31,7 +31,7 @@
   - [基于NAT的软路由](applications/04_基于NAT的软路由)
   - [利用udev](applications/05.udev)
   - [MAC地址问题](applications/06.qmi网卡的mac地址)
-  - []()
+  - [Android上编译运行quectel-CM](applications/07.add_quectel-CM_into_Android)
   - [readytoadd](applications/readytoadd)
   
   编译问题
